@@ -1,0 +1,29 @@
+[
+  {
+    "id": "6651414a-4372-4347-b759-1bbb5bc7cac7",
+    "name": "Ivan",
+    "email": "ivan@test.com",
+    "age": 20
+  },
+  {
+    "id": "4c14e59b-2a12-42ce-898b-f2d186c76467",
+    "name": "Petr",
+    "email": "petr@test.com",
+    "age": 25,
+    "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+  },
+  {
+    "id": "b92e5754-3921-4adb-9d52-fd52f80cc174",
+    "name": "олег",
+    "email": "oleg.terentev2002@mail.ru",
+    "age": 23,
+    "password_hash": "f4002e0836220f343bd45fb88de1d254ef498f808cb2c6fd27598db294dfe096"
+  },
+  {
+    "id": "d9bec91f-6192-435c-bc97-0c1f829bb4d7",
+    "name": "oleg",
+    "email": "oleg.terentev22@mail.ru",
+    "age": 23,
+    "password_hash": "f4002e0836220f343bd45fb88de1d254ef498f808cb2c6fd27598db294dfe096"
+  }
+]

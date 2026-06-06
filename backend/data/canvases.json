@@ -1,0 +1,195 @@
+[
+  {
+    "id": "2181ea5c-1196-4be3-92c8-35f476034d97",
+    "user_id": "7184a858-91bc-4336-96ce-6a4f4f1b70ca",
+    "title": "Test canvas",
+    "history": [
+      {
+        "id": "A",
+        "command": "A = Point(1, 2)"
+      }
+    ],
+    "updated_at": "2026-05-31T20:32:31.420116+00:00"
+  },
+  {
+    "id": "f6a8c699-9200-45f6-81f9-e4446f94c6aa",
+    "user_id": "31475f5f-0469-4446-81fd-6853d81ebfef",
+    "title": "Новый холст",
+    "history": [],
+    "updated_at": "2026-05-31T20:35:16.782208+00:00"
+  },
+  {
+    "id": "3c6badb9-1d83-44ab-9c5c-387c598f0b5a",
+    "user_id": "d9bec91f-6192-435c-bc97-0c1f829bb4d7",
+    "title": "Новый холст",
+    "history": [
+      {
+        "id": "B",
+        "command": "B = Point(-15.91, 8.29)"
+      },
+      {
+        "id": "C",
+        "command": "C = Point(-10.0, 6.0)"
+      },
+      {
+        "id": "BC",
+        "command": "BC = Segment(B, C)"
+      },
+      {
+        "id": "A",
+        "command": "A = Point(-19.63, 2.32)"
+      },
+      {
+        "id": "D",
+        "command": "D = Point(-12.8, 2.15)"
+      },
+      {
+        "id": "E",
+        "command": "E = Point(-12.63, 8.98)"
+      },
+      {
+        "id": "F",
+        "command": "F = Point(-19.46, 9.15)"
+      },
+      {
+        "id": "b",
+        "command": "b = Segment(A, D)"
+      },
+      {
+        "id": "c",
+        "command": "c = Segment(D, E)"
+      },
+      {
+        "id": "d",
+        "command": "d = Segment(E, F)"
+      },
+      {
+        "id": "e",
+        "command": "e = Segment(F, A)"
+      },
+      {
+        "id": "ADEF",
+        "command": "ADEF = Square(A, D, E, F)"
+      },
+      {
+        "id": "G",
+        "command": "G = Point(-20.4, -2.42)"
+      },
+      {
+        "id": "H",
+        "command": "H = Point(-12.46, -3.82)"
+      },
+      {
+        "id": "I",
+        "command": "I = Point(-6.0, -8.64)"
+      },
+      {
+        "id": "J",
+        "command": "J = Point(-13.94, -7.24)"
+      },
+      {
+        "id": "f",
+        "command": "f = Segment(G, H)"
+      },
+      {
+        "id": "g",
+        "command": "g = Segment(H, I)"
+      },
+      {
+        "id": "h",
+        "command": "h = Segment(I, J)"
+      },
+      {
+        "id": "i",
+        "command": "i = Segment(J, G)"
+      },
+      {
+        "id": "GHIJ",
+        "command": "GHIJ = Rhombus(G, H, I, J)"
+      }
+    ],
+    "updated_at": "2026-06-02T12:32:25.470341+00:00",
+    "published": false
+  },
+  {
+    "id": "24f234f3-9ef8-4a90-9e0d-fd2e7b81b9a2",
+    "user_id": "d9bec91f-6192-435c-bc97-0c1f829bb4d7",
+    "title": "Новый холст",
+    "history": [
+      {
+        "id": "B",
+        "command": "B = Point(-14.63, 6.81)"
+      },
+      {
+        "id": "C",
+        "command": "C = Point(-5.54, 3.86)"
+      },
+      {
+        "id": "BC",
+        "command": "BC = Segment(B, C)"
+      }
+    ],
+    "updated_at": "2026-06-02T05:17:28.907515+00:00"
+  },
+  {
+    "id": "8cb3ea26-80e1-4741-8961-3ac98f67ade2",
+    "user_id": "b92e5754-3921-4adb-9d52-fd52f80cc174",
+    "title": "проект 1",
+    "history": [
+      {
+        "id": "A",
+        "command": "A = Point(-13.86, 6.21)"
+      },
+      {
+        "id": "B",
+        "command": "B = Point(-0.49, 4.21)"
+      },
+      {
+        "id": "AB",
+        "command": "AB = Line(A, B)"
+      },
+      {
+        "id": "C",
+        "command": "C = Point(-17.0, 3.0)"
+      },
+      {
+        "id": "D",
+        "command": "D = Point(-9.0, 3.0)"
+      },
+      {
+        "id": "E",
+        "command": "E = Point(-6.46, -4.59)"
+      },
+      {
+        "id": "F",
+        "command": "F = Point(-14.46, -4.59)"
+      },
+      {
+        "id": "b",
+        "command": "b = Segment(C, D)"
+      },
+      {
+        "id": "c",
+        "command": "c = Segment(D, E)"
+      },
+      {
+        "id": "d",
+        "command": "d = Segment(E, F)"
+      },
+      {
+        "id": "e",
+        "command": "e = Segment(F, C)"
+      },
+      {
+        "id": "CDEF",
+        "command": "CDEF = Rhombus(C, D, E, F)"
+      },
+      {
+        "id": "H",
+        "command": "H = Point(-8.06, 9.55)"
+      }
+    ],
+    "published": true,
+    "updated_at": "2026-06-02T23:07:12.916344+00:00"
+  }
+]
